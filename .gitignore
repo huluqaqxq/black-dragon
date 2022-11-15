@@ -1,0 +1,13 @@
+
+
+/node_modules
+/.temp
+
+# testing
+/coverage
+
+# production
+/dist
+/docs/.vuepress/.cache
+/docs/.vuepress/.temp
+

@@ -1,0 +1,13 @@
+{
+  "name": "black-dragon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0"
+  },
+  "scripts": {
+    "serve": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs"
+  }
+}
